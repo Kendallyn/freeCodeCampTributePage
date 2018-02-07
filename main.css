@@ -1,0 +1,25 @@
+body {
+  background-color: antiquewhite;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2rem;
+}
+
+ol {
+  list-style: none;
+}
+
+li {
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+p {
+  font-size: 1.5rem;
+}
